@@ -11,7 +11,7 @@ Simple Interface
 <br>
 
 Gamplay Scene
-<br></br>
+<br>
 ![2022-03-21-09-31-03](https://user-images.githubusercontent.com/26629776/159206338-06126f98-ecdf-45a1-9e3e-a926706a9d23.jpg)
 </br>
 Player "X" Wins
