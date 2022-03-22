@@ -18,7 +18,7 @@ Gamplay Scene
 Player "X" Wins
 <br>
 ![2022-03-21-09-32-06](https://user-images.githubusercontent.com/26629776/159206339-6f883326-83df-43bf-a5dd-77eb8bebc194.jpg)
-</br>
+<br>
 Player "O" Wins
 <br>
 ![2022-03-21-09-32-41](https://user-images.githubusercontent.com/26629776/159206340-3e4813b5-a2ea-4cef-9567-3278fcabde01.jpg)
