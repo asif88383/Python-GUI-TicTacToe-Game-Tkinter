@@ -6,9 +6,9 @@ Open tictactoe.py file in any Code Editor and hit Play/Run button to play the th
 <br>
 
 Simple Interface
-<br></br>
+<br>
 ![2022-03-21-09-30-45](https://user-images.githubusercontent.com/26629776/159206313-4dfb919e-85ac-4bf7-aa02-3549fcd2fac7.jpg)
-<br></br>
+<br>
 
 Gamplay Scene
 <br></br>
