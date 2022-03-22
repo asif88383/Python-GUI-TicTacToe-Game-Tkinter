@@ -23,7 +23,7 @@ Player "X" Wins
 Player "O" Wins
 <br>
 ![2022-03-21-09-32-41](https://user-images.githubusercontent.com/26629776/159206340-3e4813b5-a2ea-4cef-9567-3278fcabde01.jpg)
-</br>
+<br>
 Game Tied!
 <br>
 ![2022-03-21-09-34-59](https://user-images.githubusercontent.com/26629776/159206342-afa4973a-9cdc-44d6-a2d0-af52607fdbd7.jpg)
